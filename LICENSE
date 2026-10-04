@@ -1,0 +1,12 @@
+YouTube Downloader — Freeware licence
+Copyright (c) 2026 Messaoudi Oualid
+
+This application is free to download and use. It is provided "as is", without
+warranty of any kind. Users are solely responsible for complying with the terms
+of service of the websites they use it with and with applicable copyright law.
+
+Bundled third-party components keep their own licences:
+- FFmpeg (ffmpeg.exe) is licensed under the GNU GPL / LGPL. Its complete source
+  code is available at https://github.com/FFmpeg/FFmpeg and https://ffmpeg.org.
+- yt-dlp is released under the Unlicense.
+- Python, Tcl/Tk, OpenSSL and other bundled libraries are covered by their own licences.
